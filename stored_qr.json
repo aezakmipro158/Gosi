@@ -1,0 +1,224 @@
+{
+    "qr_list": [
+        {
+            "message_id": 11264,
+            "from": {
+                "id": 7618777144,
+                "is_bot": false,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 7618777144,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "type": "private"
+            },
+            "date": 1750224213,
+            "photo": [
+                {
+                    "file_id": "AgACAgIAAxkBAAIsAAFoUk1VTKdPGMUFHng3OEAcgJL0QwACZfExGw4dmErDY3qQ5JOI0QEAAwIAA3MAAzYE",
+                    "file_unique_id": "AQADZfExGw4dmEp4",
+                    "file_size": 2589,
+                    "width": 90,
+                    "height": 84
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsAAFoUk1VTKdPGMUFHng3OEAcgJL0QwACZfExGw4dmErDY3qQ5JOI0QEAAwIAA20AAzYE",
+                    "file_unique_id": "AQADZfExGw4dmEpy",
+                    "file_size": 8814,
+                    "width": 166,
+                    "height": 155
+                }
+            ],
+            "caption": "984 281-32-70 S\nESIM.MTS.RU\n\u041a\u043e\u0434 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438\nWMQ82-36UI0-R61EV-R95JF",
+            "caption_entities": [
+                {
+                    "offset": 16,
+                    "length": 11,
+                    "type": "url"
+                }
+            ],
+            "stored_at": "2025-06-18 08:23:34",
+            "is_forwarded": false,
+            "stored_by": "mol_25411"
+        },
+        {
+            "message_id": 11286,
+            "from": {
+                "id": 7618777144,
+                "is_bot": false,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 7618777144,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "type": "private"
+            },
+            "date": 1750226911,
+            "photo": [
+                {
+                    "file_id": "AgACAgIAAxkBAAIsFmhSV98rUj-KkwYD-4G2juw-xeA-AALl7DEbZ9OYSrihs8VO6irNAQADAgADcwADNgQ",
+                    "file_unique_id": "AQAD5ewxG2fTmEp4",
+                    "file_size": 1156,
+                    "width": 90,
+                    "height": 55
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsFmhSV98rUj-KkwYD-4G2juw-xeA-AALl7DEbZ9OYSrihs8VO6irNAQADAgADbQADNgQ",
+                    "file_unique_id": "AQAD5ewxG2fTmEpy",
+                    "file_size": 17846,
+                    "width": 320,
+                    "height": 194
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsFmhSV98rUj-KkwYD-4G2juw-xeA-AALl7DEbZ9OYSrihs8VO6irNAQADAgADeAADNgQ",
+                    "file_unique_id": "AQAD5ewxG2fTmEp9",
+                    "file_size": 69779,
+                    "width": 800,
+                    "height": 484
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsFmhSV98rUj-KkwYD-4G2juw-xeA-AALl7DEbZ9OYSrihs8VO6irNAQADAgADeQADNgQ",
+                    "file_unique_id": "AQAD5ewxG2fTmEp-",
+                    "file_size": 91014,
+                    "width": 1080,
+                    "height": 653
+                }
+            ],
+            "caption": "+79145453997 \u0430\n\n\u0410\u0434\u0440\u0435\u0441 SM-DP+ \nESIM.MTS.RU \n\n\u041a\u043e\u0434 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438 \nBJDF2-36UHZ-SBNBL-LZQXX",
+            "caption_entities": [
+                {
+                    "offset": 0,
+                    "length": 12,
+                    "type": "phone_number"
+                },
+                {
+                    "offset": 30,
+                    "length": 11,
+                    "type": "url"
+                }
+            ],
+            "stored_at": "2025-06-18 09:08:31",
+            "is_forwarded": false,
+            "stored_by": "mol_25411"
+        },
+        {
+            "message_id": 11287,
+            "from": {
+                "id": 7618777144,
+                "is_bot": false,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 7618777144,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "type": "private"
+            },
+            "date": 1750226911,
+            "photo": [
+                {
+                    "file_id": "AgACAgIAAxkBAAIsF2hSV998kqWIuYk8E5OqzPxHQSFLAAKx8TEbDh2YSh8YuXaxYLRVAQADAgADcwADNgQ",
+                    "file_unique_id": "AQADsfExGw4dmEp4",
+                    "file_size": 2509,
+                    "width": 90,
+                    "height": 83
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsF2hSV998kqWIuYk8E5OqzPxHQSFLAAKx8TEbDh2YSh8YuXaxYLRVAQADAgADbQADNgQ",
+                    "file_unique_id": "AQADsfExGw4dmEpy",
+                    "file_size": 9137,
+                    "width": 169,
+                    "height": 156
+                }
+            ],
+            "caption": "984 291-12-28 S\nESIM.MTS.RU\n\u041a\u043e\u0434 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438\nFYC02-36UIA-6TSFL-6FU1R",
+            "caption_entities": [
+                {
+                    "offset": 16,
+                    "length": 11,
+                    "type": "url"
+                }
+            ],
+            "stored_at": "2025-06-18 09:08:32",
+            "is_forwarded": false,
+            "stored_by": "mol_25411"
+        },
+        {
+            "message_id": 11288,
+            "from": {
+                "id": 7618777144,
+                "is_bot": false,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "language_code": "ru"
+            },
+            "chat": {
+                "id": 7618777144,
+                "first_name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439",
+                "username": "mol_25411",
+                "type": "private"
+            },
+            "date": 1750226911,
+            "photo": [
+                {
+                    "file_id": "AgACAgIAAxkBAAIsGGhSV9_IwXWV-qawJKx0DzNrJ5dFAAKy8TEbDh2YSsd9ghdmQhxCAQADAgADcwADNgQ",
+                    "file_unique_id": "AQADsvExGw4dmEp4",
+                    "file_size": 2450,
+                    "width": 90,
+                    "height": 83
+                },
+                {
+                    "file_id": "AgACAgIAAxkBAAIsGGhSV9_IwXWV-qawJKx0DzNrJ5dFAAKy8TEbDh2YSsd9ghdmQhxCAQADAgADbQADNgQ",
+                    "file_unique_id": "AQADsvExGw4dmEpy",
+                    "file_size": 8517,
+                    "width": 166,
+                    "height": 154
+                }
+            ],
+            "caption": "914 181-52-75 S\nESIM.MTS.RU\n\u041a\u043e\u0434 \u0430\u043a\u0442\u0438\u0432\u0430\u0446\u0438\u0438\nGHL72-36UI0-DD5OS-5VWKB",
+            "caption_entities": [
+                {
+                    "offset": 16,
+                    "length": 11,
+                    "type": "url"
+                }
+            ],
+            "stored_at": "2025-06-18 09:08:32",
+            "is_forwarded": false,
+            "stored_by": "mol_25411"
+        }
+    ],
+    "sent": {
+        "-4774197633": [
+            210,
+            195,
+            233,
+            232,
+            194,
+            193,
+            192,
+            191,
+            190,
+            189,
+            288,
+            287,
+            286,
+            285,
+            284
+        ],
+        "-4642408856": [
+            288,
+            287,
+            286
+        ]
+    },
+    "last_update": "2025-06-18 09:08:32"
+}
