@@ -1,0 +1,31 @@
+[
+    {
+        "message_id": 11172,
+        "from": {
+            "id": 7738271933,
+            "is_bot": false,
+            "first_name": "\u0421\u0430\u0439\u043c\u043e\u043d",
+            "username": "simon_bred",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 7738271933,
+            "first_name": "\u0421\u0430\u0439\u043c\u043e\u043d",
+            "username": "simon_bred",
+            "type": "private"
+        },
+        "date": 1750219541,
+        "text": "\/staty",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ],
+        "is_moderated": false,
+        "submitted_by": "simon_bred",
+        "submitted_at": "2025-06-18 07:05:41",
+        "pending_id": "q_68523b153387e"
+    }
+]
